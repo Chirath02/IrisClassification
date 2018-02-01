@@ -8,7 +8,7 @@ This program will classify 3 different species
 * 1 represents Iris virginica
 * 2 represents Iris versicolor
 
-![Getting Started for ML Beginners](https://www.tensorflow.org/get_started/get_started_for_beginners)
+[Getting Started for ML Beginners!](https://www.tensorflow.org/get_started/get_started_for_beginners)
 
 #### The Iris program requires the data from the following two .csv files:
 
@@ -28,5 +28,5 @@ $ pip install -r requirements.txt
 ## Run the program
 
 ```python
-$ python iris_classifier.property
+python iris_classifier.property
 ```
